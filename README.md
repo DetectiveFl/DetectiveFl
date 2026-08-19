@@ -25,6 +25,8 @@
 
 <br>
 
-| <h3 align="center">GITHUB STATS</h3> | <h3 align="center">ACTIVITY GRAPH</h3> |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DetectiveFl&show_icons=true&hide_border=true&bg_color=00000000&title_color=90eaff&text_color=90eaff&icon_color=3e645e&v=3" alt="Stats" width="100%"> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=DetectiveFl&bg_color=transparent&color=90eaff&line=90eaff&point=90eaff&hide_border=true" alt="Activity Graph" width="100%"> |
+<h3 align="center">ACTIVITY GRAPH</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DetectiveFl&bg_color=transparent&color=90eaff&line=90eaff&point=90eaff&hide_border=true" alt="Activity Graph" width="100%">
+</div>
