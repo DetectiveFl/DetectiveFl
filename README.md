@@ -21,8 +21,6 @@
 <h3 align="center">GITHUB STATS</h3>
 
 <div align="center">
-  <!-- Карточка общей статистики -->
   <img src="https://github-readme-stats.vercel.app/api?username=DetectiveFl&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="DetectiveFl's GitHub stats" height="192px"/>
-  <!-- Карточка используемых языков -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetectiveFl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192px"/>
 </div>
