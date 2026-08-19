@@ -17,14 +17,6 @@
 
 <br>
 
-<h3 align="center">GITHUB STATS</h3>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DetectiveFl&theme=dark" alt="DetectiveFl's Profile Details" />
-</div>
-
-<br>
-
 <h3 align="center">ACTIVITY GRAPH</h3>
 
 <div align="center">
