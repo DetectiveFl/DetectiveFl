@@ -1,8 +1,4 @@
 <img src="https://raw.githubusercontent.com/DetectiveFl/DetectiveFl/main/crt_effect (2).png" alt="Banner" width="100%">
-<div align="center">
-  <img src="ТВОЯ_ССЫЛКА_НА_БАННЕР.png" alt="DetectiveFl Banner" width="100%">
-</div>
-
 <br>
 
 ### about
